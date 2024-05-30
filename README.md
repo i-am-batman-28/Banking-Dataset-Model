@@ -1,0 +1,1 @@
+This is a data science project created using Google Colab for the visualisation of a banking dataset using EDA and then the preprocessing of the data thus getting useful insight into the various features and getting info on the bank deposits done by various classes of people including different marital status and ages, etc. 
